@@ -1,4 +1,4 @@
-package kr.co.kokono.jdp._2.prototype_pattern.good1;
+package kr.co.kokono.jdp._2.prototype_pattern.good;
 
 import java.util.Arrays;
 import java.util.Vector;
