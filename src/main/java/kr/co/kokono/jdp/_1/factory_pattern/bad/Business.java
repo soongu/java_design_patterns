@@ -4,7 +4,7 @@ import java.sql.Connection;
 import java.sql.PreparedStatement;
 
 /**
- * @Waring
+ * @Warning
  * 이런 코딩방식의 문제점:
  * 만약 Database객체를 활용하는 Business클래스가 100개이고
  * new Database() 코드가 new Database(id); 로 변경된다면
